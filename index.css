@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+}
+
+#root {
+    background-color: #f7f7f7;
+    color: black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    width: 400px;
+    font-size: 18px;
+    padding: 0;
+    margin: 0 auto;
+    /* text-align: center; */
+}
+
+body {
+    background-color: #f7f7f7;
+    margin: 0;
+}
